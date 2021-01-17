@@ -38,7 +38,7 @@
 ```
 ***7***
 ```
-![alt text](images/screen.png "Image1")
+![alt text](Lab_5/images/screen.png "Image1")
 ![alt text](images/screen2.png "Image2")
 ![alt text](images/screen3.png "Image3")
 ```
